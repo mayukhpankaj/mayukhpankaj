@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Mayukh ![Hi](https://raw.githubusercontent.com/mayukhpankaj/mayukhpankaj/main/img/hi.gif)
 
 <!--
 **mayukhpankaj/mayukhpankaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
