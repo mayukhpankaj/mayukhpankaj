@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center"> Hi, I'm Mayukh  <img src="https://raw.githubusercontent.com/mayukhpankaj/mayukhpankaj/main/img/hi.gif" width="28px" alt="hi"></h1>
+<h2 align="center"> Hi there, I'm May  <img src="https://raw.githubusercontent.com/mayukhpankaj/mayukhpankaj/main/img/hi.gif" width="28px" alt="hi"></h2>
 
 
 <div align="center">
