@@ -6,13 +6,6 @@
 
 
 <div align="center">
-![typewriter](https://raw.githubusercontent.com/mayukhpankaj/mayukhpankaj/81854bed5ef82d9d60aaf636606704840b3aa6cc/img/type.svg)
-</div>
-
-
-
-
-<div align="center">
 <img align="center" src="https://raw.githubusercontent.com/mayukhpankaj/mayukhpankaj/81854bed5ef82d9d60aaf636606704840b3aa6cc/img/type.svg" alt="Welcome">
 </div>
 
