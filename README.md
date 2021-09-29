@@ -9,3 +9,6 @@
 <img align="center" src="https://raw.githubusercontent.com/mayukhpankaj/mayukhpankaj/81854bed5ef82d9d60aaf636606704840b3aa6cc/img/type.svg" alt="Welcome">
 </div>
 
+![profile views](https://gpvc.arturio.dev/mayukhpankaj)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mayukhpankaj)
