@@ -6,7 +6,7 @@
 
 
 <div align="center">
-<img align="center" src="https://raw.githubusercontent.com/mayukhpankaj/mayukhpankaj/81854bed5ef82d9d60aaf636606704840b3aa6cc/img/type.svg" alt="Welcome">
+<img align="center" src="https://raw.githubusercontent.com/mayukhpankaj/mayukhpankaj/45c93d415fb964ba72fe70f38d7dabcec4e227fd/img/type.svg" height="50px" alt="Mayukh Pankaj">
 </div>
 
 <!-- ![profile views](https://gpvc.arturio.dev/mayukhpankaj) -->
