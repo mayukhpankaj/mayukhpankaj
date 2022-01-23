@@ -18,11 +18,12 @@
 <!-- 
 ![Mayukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayukhpankaj&theme=synthwave&show_icons=true) -->
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayukhpankaj&theme=synthwave&show_icons=true" alt="mayukh"  />
- </p>
- <p>
+<!-- <p> -->
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayukhpankaj&theme=synthwave&show_icons=true" alt="mayukh"  />
+<!--  </p>
+ <p> -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayukhpankaj&langs_count=10&layout=compact&hide=SCSS,jupyter%20notebook&theme=synthwave&card_width=446" alt="mayukh"  width="auto" />
-</p>
+<!-- </p> -->
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayukhpankaj&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
