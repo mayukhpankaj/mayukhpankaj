@@ -12,3 +12,8 @@
 <!-- ![profile views](https://gpvc.arturio.dev/mayukhpankaj) -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayukhpankaj)
+
+
+
+
+![Mayukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayukhpankaj&theme=synthwave&show_icons=true)
