@@ -17,11 +17,16 @@
 
 <!-- 
 ![Mayukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayukhpankaj&theme=synthwave&show_icons=true) -->
+<div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayukhpankaj&theme=synthwave&show_icons=true" alt="mayukh"  />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayukhpankaj&langs_count=10&layout=compact&hide=SCSS,jupyter%20notebook&theme=synthwave&card_width=450" alt="mayukh"  width="auto" />
+ </p>
+ <p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayukhpankaj&langs_count=10&layout=compact&hide=SCSS,jupyter%20notebook&theme=synthwave&card_width=449" alt="mayukh"  width="auto" />
 </p>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayukhpankaj&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+</div>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayukhpankaj&langs_count=10&layout=compact&hide=jupyter%20notebook&theme=synthwave" alt="mayukh" width="100%" height="50%"/></p> -->
