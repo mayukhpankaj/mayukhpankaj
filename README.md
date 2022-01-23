@@ -17,3 +17,5 @@
 
 
 ![Mayukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayukhpankaj&theme=synthwave&show_icons=true)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayukhpankaj&langs_count=10&theme=synthwave" alt="mayukh" /></p>
