@@ -17,6 +17,6 @@
 
 <!-- 
 ![Mayukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayukhpankaj&theme=synthwave&show_icons=true) -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayukhpankaj&theme=synthwave&show_icons=true" alt="mayukh" width="100%" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mayukhpankaj&theme=synthwave&show_icons=true" alt="mayukh" width="100%" height="50%" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayukhpankaj&langs_count=10&layout=compact&hide=jupyter%20notebook&theme=synthwave" alt="mayukh" width="100%" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayukhpankaj&langs_count=10&layout=compact&hide=jupyter%20notebook&theme=synthwave" alt="mayukh" width="100%" height="50%"/></p>
