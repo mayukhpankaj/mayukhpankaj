@@ -22,11 +22,11 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayukhpankaj&theme=react&show_icons=true&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="mayukh"  />
 <!--  </p>
  <p> -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayukhpankaj&langs_count=10&layout=compact&hide=SCSS,jupyter%20notebook&theme=react&card_width=446" alt="mayukh"  width="auto" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayukhpankaj&langs_count=10&layout=compact&hide=SCSS,jupyter%20notebook&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&card_width=446" alt="mayukh"  width="auto" />
 <!-- </p> -->
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayukhpankaj&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayukhpankaj&theme=react&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://git.io/streak-stats)
   
 </div>
 
