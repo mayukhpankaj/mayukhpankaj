@@ -26,7 +26,7 @@
 <!-- </p> -->
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayukhpankaj&theme=react&date_format=M%20j%5B%2C%20Y%5D&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mayukhpankaj&theme=react&date_format=M%20j%5B%2C%20Y%5D&theme=monokai-metallian&hide_border=true)](https://git.io/streak-stats)
   
 </div>
 
