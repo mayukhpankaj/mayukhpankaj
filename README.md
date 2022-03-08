@@ -13,7 +13,12 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayukhpankaj)
 
+### Hi I am Mayukh Pankaj, Computer Science Engineering sophomore at BIT Mesra.  
 
+- 🤔 I’m looking for **Gsoc** Organizations
+- 🌱 I’m currently working on my **DSA.**
+- 💬 Ask me about **Development , Data Structures & Algorithms**
+- 📫 How to reach me: ✔[Linkedin](https://www.linkedin.com/in/mayukh-pankaj/)  ✔[Mail](mailto:mayukhpankaj30@gmailcom)
 
 <!-- 
 ![Mayukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayukhpankaj&theme=synthwave&show_icons=true) -->
